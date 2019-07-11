@@ -1,0 +1,2 @@
+# Attrition
+In this study problem statement is: What is the likelihood of an active employee leaving the company? What are the key indicators of an employee leaving the company? What strategies can be adopted based on the results to improve employee retention? Given that we have data on former employees, this is a standard supervised classification problem where the label is a binary variable, 0 (active employee), 1 (former employee). In this study, our target variable Y is the probability of an employee leaving the company
